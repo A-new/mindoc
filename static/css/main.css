@@ -447,6 +447,7 @@ body .scrollbar-track-color {
     cursor: pointer;
     margin-top: -10px;
     margin-left: -44px;
+    padding: 6px 10px;
     border: 0;
     background-color: transparent
 }
